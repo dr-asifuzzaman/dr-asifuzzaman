@@ -37,6 +37,7 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 
 ---
 
+<!--- 
 ### 🏗️ Featured Projects
 
 | Project | Description | Repository |
@@ -46,7 +47,7 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 | **⚙️ [LWSNet](https://github.com/dr-asifuzzaman/lwsnet)** | Lightweight stacked ensemble model to segregate COVID-19 and pneumonia | `Springer MTAP 2023` |
 | **🫁 [LungSeg-Ensemble](https://github.com/dr-asifuzzaman/lung-segmentation)** | Ensemble U-Net architecture for lung segmentation and ROI cropping | `IEEE Conf. 2025` |
 | **🌿 [BrownViTNet](https://github.com/dr-asifuzzaman/brownvitnet)** | CNN–ViT hybrid for brownfield classification in aerial imagery (*IEEE JSTARS 2025*) | `Fraunhofer IIS Collaboration` |
-
+--->
 ---
 
 ### 📚 Selected Publications
