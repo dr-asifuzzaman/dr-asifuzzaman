@@ -12,7 +12,6 @@ Last Updated: October 2025
   <a href="mailto:asifuzzaman.lasker@gmail.com">asifuzzaman.lasker@gmail.com</a> · 
   <a href="https://www.linkedin.com/in/dr-asifuzzaman/">LinkedIn</a> · 
   <a href="https://orcid.org/0009-0009-5468-371X">ORCID</a> · 
-  <a href="https://github.com/dr-asifuzzaman">GitHub</a>
 </p>
 
 ---
@@ -96,6 +95,9 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 ---
 
 ### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr-asifuzzaman&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dr-asifuzzaman&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
