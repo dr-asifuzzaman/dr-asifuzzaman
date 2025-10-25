@@ -104,12 +104,6 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr-asifuzzaman&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dr-asifuzzaman&show_icons=true&theme=radical" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-asifuzzaman&layout=compact&theme=radical" alt="Top languages" height="165"/>
-</p>
-
 ---
 
 ### 🌱 Currently Working On
