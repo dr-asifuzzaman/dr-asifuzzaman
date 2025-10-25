@@ -11,7 +11,7 @@ Last Updated: October 2025
   📍 Kolkata, India · 
   <a href="mailto:asifuzzaman.lasker@gmail.com">asifuzzaman.lasker@gmail.com</a> · 
   <a href="https://www.linkedin.com/in/dr-asifuzzaman/">LinkedIn</a> · 
-  <a href="https://orcid.org/0009-0009-5468-371X">ORCID</a> · 
+  <a href="https://orcid.org/0009-0009-5468-371X">ORCID</a> 
 </p>
 
 ---
@@ -60,8 +60,8 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 - 🧩 **LungConVT-Net:** Vision Transformer with Blended Features for Pneumonia Detection — *Pattern Recognition (Elsevier, IF 7.6, 2025)*  
 - ⚙️ **PulmoNetX:** Hybrid Vision Transformer Model for Multi-scale Spatial Feature Reduction — *IEEE JSTARS (IF 6.16, 2025)*  
 - 🧠 **LWSNet:** Lightweight Stack-Ensemble Network for COVID-19 and Pneumonia Detection — *Springer MTAP (2023)*  
-- 🔍 **Channel-Dedicated Convolution with Vision Transformers** — *Under Review, IEEE Access (2025)*  
-- 📘 **Comprehensive Review on ML/DL for COVID-19 Screening** — *SN Computer Science (Springer, 2023)*  
+<!--- 🔍 **Channel-Dedicated Convolution with Vision Transformers** — *Under Review, IEEE Access (2025)*  -->
+<!--- - 📘 **Comprehensive Review on ML/DL for COVID-19 Screening** — *SN Computer Science (Springer, 2023)*  -->
 
 📄 [View Full Publication List on ORCID →](https://orcid.org/0009-0009-5468-371X)
 
