@@ -34,14 +34,6 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 - ⚙️ Lightweight & Edge-Deployable Deep Learning Models
 - 🧠 Generative AI for Radiology (RAG, LLM + Imaging Integration)
 
----
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/cassandra" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cassandra" alt="cassandra" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
-
 <!--- 
 ### 🏗️ Featured Projects
 
@@ -72,22 +64,53 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 ### 💻 Technical Skills
 
 #### 💬 Programming
-`Python` · `C++` · `R` · `SQL` · `Java`
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=3776AB&labelColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=blue&labelColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=blue&labelColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=red&labelColor=white&style=flat)
+
 
 #### 🧠 Machine Learning / Deep Learning
-`TensorFlow` · `PyTorch` · `Keras` · `Scikit-learn` · `XGBoost` · `LightGBM`
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=FF6F00&labelColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=red&labelColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=D00000&labelColor=white&style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=F7931E&labelColor=white&style=flat)
+![XGBoost](https://img.shields.io/badge/xg-XGBoost-FF6600?logo=xgboost&logoColor=white&labelColor=2C2C2C&style=flat)
+![LightGBM](https://img.shields.io/badge/lg-LightGBM-00C784?logo=lightgbm&logoColor=white&labelColor=1E1E1E&style=flat)
+
 
 #### 🧩 Computer Vision
-`OpenCV` · `PIL` · `MONAI` · `Grad-CAM` · `LIME` · `DICOM`
+![OpenCV](https://img.shields.io/badge/cv-OpenCV-5C3EE8?logo=opencv&logoColor=white&labelColor=1E1E1E&style=flat)
+![PIL](https://img.shields.io/badge/pil-PIL-3776AB?logo=python&logoColor=white&labelColor=212121&style=flat)
+![MONAI](https://img.shields.io/badge/mo-MONAI-00BFAE?logo=pytorch&logoColor=white&labelColor=1B1B1B&style=flat)
+![Grad-CAM](https://img.shields.io/badge/gc-Grad--CAM-FF9800?logo=tensorflow&logoColor=white&labelColor=212121&style=flat)
+![LIME](https://img.shields.io/badge/lm-LIME-32CD32?logo=python&logoColor=white&labelColor=1B1B1B&style=flat)
+![DICOM](https://img.shields.io/badge/dc-DICOM-2C6CB0?logo=dcm4che&logoColor=white&labelColor=0D1117&style=flat)
 
 #### 🧬 Generative AI & NLP
-`HuggingFace Transformers` · `LangChain` · `LlamaIndex` · `OpenAI API` · `RAG Workflows`
+![HuggingFace](https://img.shields.io/badge/hf-HuggingFace-FFD21E?logo=huggingface&logoColor=black&labelColor=FFB000&style=flat)
+![LangChain](https://img.shields.io/badge/lc-LangChain-00BFA6?logo=chainlink&logoColor=white&labelColor=1E1E1E&style=flat)
+![LlamaIndex](https://img.shields.io/badge/li-LlamaIndex-0088CC?logo=llama&logoColor=white&labelColor=1B1B1B&style=flat)
+![OpenAI](https://img.shields.io/badge/ai-OpenAI-412991?logo=openai&logoColor=white&labelColor=0D1117&style=flat)
+![RAG Workflows](https://img.shields.io/badge/rag-RAG%20Workflows-FF6B00?logo=workflow&logoColor=white&labelColor=2C2C2C&style=flat)
+
 
 #### ☁️ Cloud & Deployment
-`AWS (EC2, S3, SageMaker)` · `Docker` · `Flask` · `FastAPI` · `Streamlit` · `TensorFlow Serving`
+![AWS](https://img.shields.io/badge/aws-AWS-232F3E?logo=amazonaws&logoColor=FF9900&labelColor=0D1117&style=flat)
+![Docker](https://img.shields.io/badge/dk-Docker-2496ED?logo=docker&logoColor=white&labelColor=1E1E1E&style=flat)
+![Flask](https://img.shields.io/badge/fl-Flask-000000?logo=flask&logoColor=white&labelColor=1E1E1E&style=flat)
+![FastAPI](https://img.shields.io/badge/fa-FastAPI-009688?logo=fastapi&logoColor=white&labelColor=1B1B1B&style=flat)
+![Streamlit](https://img.shields.io/badge/st-Streamlit-FF4B4B?logo=streamlit&logoColor=white&labelColor=1E1E1E&style=flat)
+![TF Serving](https://img.shields.io/badge/ts-TF%20Serving-FF6F00?logo=tensorflow&logoColor=white&labelColor=E65100&style=flat)
 
 #### 📊 Data Science & Tools
-`Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `Seaborn` · `Apache Spark`
+![Pandas](https://img.shields.io/badge/pd-Pandas-150458?logo=pandas&logoColor=white&labelColor=1E1E1E&style=flat)
+![NumPy](https://img.shields.io/badge/np-NumPy-013243?logo=numpy&logoColor=white&labelColor=0D1117&style=flat)
+![Matplotlib](https://img.shields.io/badge/mp-Matplotlib-11557C?logo=python&logoColor=white&labelColor=1E1E1E&style=flat)
+![Plotly](https://img.shields.io/badge/pl-Plotly-3F4F75?logo=plotly&logoColor=white&labelColor=1E1E1E&style=flat)
+![Seaborn](https://img.shields.io/badge/sb-Seaborn-4C72B0?logo=python&logoColor=white&labelColor=1E1E1E&style=flat)
+![Apache Spark](https://img.shields.io/badge/sp-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&labelColor=1B1B1B&style=flat)
+
 
 ---
 
