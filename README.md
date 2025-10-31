@@ -59,6 +59,20 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 
 📄 [View Full Publication List on ORCID →](https://orcid.org/0009-0009-5468-371X)
 
+
+---
+
+### 🏅 Achievements
+
+- 🧠 Published **10+ peer-reviewed papers** (Elsevier, IEEE, Springer)
+- 🧩 Developed **5+ production-grade AI models** for disease detection (98–99% accuracy)
+- ⚙️ Achieved **60% reduction in model computation cost** for edge deployment
+- 🌐 International collaborations with **Fraunhofer IIS (Germany)** and **University of Évora (Portugal)**
+- 🎓 Qualified **UGC-NET (Computer Science & Applications)** by NTA, Govt. of India
+- 👨‍🏫 Mentored 4+ students on AI-based diagnostic projects (1 paper accepted)
+
+
+
 ---
 
 ### 💻 Technical Skills
@@ -112,16 +126,6 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 
 ---
 
-### 🏅 Achievements
-
-- 🧠 Published **10+ peer-reviewed papers** (Elsevier, IEEE, Springer)
-- 🧩 Developed **5+ production-grade AI models** for disease detection (98–99% accuracy)
-- ⚙️ Achieved **60% reduction in model computation cost** for edge deployment
-- 🌐 International collaborations with **Fraunhofer IIS (Germany)** and **University of Évora (Portugal)**
-- 🎓 Qualified **UGC-NET (Computer Science & Applications)** by NTA, Govt. of India
-- 👨‍🏫 Mentored 4+ students on AI-based diagnostic projects (1 paper accepted)
-
----
 
 ### 📈 GitHub Stats
 <p align="center">
