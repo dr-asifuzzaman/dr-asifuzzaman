@@ -4,7 +4,7 @@ Author: Asifuzzaman Lasker
 Last Updated: October 2025
 -->
 
-<h1 align="center">🧠 Asifuzzaman Lasker</h1>
+<h1 align="center"> Asifuzzaman Lasker</h1>
 <h3 align="center">AI Researcher | Vision Transformers | Deep Radiological Diagnostics</h3>
 
 <p align="center">
@@ -52,13 +52,12 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 - **LungConVT-Net:** Vision Transformer with Blended Features for Pneumonia Detection — *Pattern Recognition (Elsevier, IF 7.6, 2025)*  
 - **BrownViTNet:** a architecture using super-resolution-based augmentation techniques for accurate brownfield site classification from aerial and satellite imagery — *IEEE JSTARS (IF 6.16, 2025)*  
 - **PulmoNetX:** Hybrid Vision Transformer for pneumonia detection; improved accuracy vs baselines. *ICPR, Kolkata (2024)*
-- 🧠 **LWSNet:** Lightweight Stack-Ensemble Network for COVID-19 and Pneumonia Detection — *Springer MTAP (2023)*  
+- **LWSNet:** Lightweight Stack-Ensemble Network for COVID-19 and Pneumonia Detection — *Springer MTAP (2023)*  
 - **Comprehensive Review on ML/DL for COVID-19 Screening** — *SN Computer Science (Springer, 2023)*
 <!--- 🔍 **Channel-Dedicated Convolution with Vision Transformers** — *Under Review, IEEE Access (2025)*  -->
 
 
 📄 [View Full Publication List on ORCID →](https://orcid.org/0009-0009-5468-371X)
-
 
 ---
 
