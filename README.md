@@ -121,7 +121,7 @@ I also contribute to the **sustainable AI domain** through collaborations with *
 ![Matplotlib](https://img.shields.io/badge/mp-Matplotlib-11557C?logo=matplotlib&logoColor=11557C&labelColor=white&style=flat)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=3F4F75&labelColor=white&style=flat)
 ![Seaborn](https://img.shields.io/badge/SB-Seaborn-4C72B0?logo=seaborn&logoColor=4C72B0&labelColor=white&style=flat)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=E25A1C&labelColor=white&style=flat)
+<!-- ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=E25A1C&labelColor=white&style=flat) >
 
 ---
 
